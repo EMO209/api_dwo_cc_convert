@@ -1,6 +1,6 @@
 <?php
 // 接口密钥
-$token = "DBETMU8V310IBMQP2Q7P";
+$token = "520xiaoduAPI";
 $apiUrl = "https://openapi.dwo.cc/api/convert";
 
 // 场景1：6位行政区编码 → 地名
